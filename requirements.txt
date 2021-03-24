@@ -1,0 +1,8 @@
+#django
+django
+
+#channels
+channels
+
+#redis
+channels_redis
