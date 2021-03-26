@@ -50,4 +50,4 @@ Otras herramientas utilizadas:
 #### [Componentes](Documentacion_proyecto/Arquitectura.md)
 
 ### Implementación 
-####[Implementación](Documentacion_proyecto/Implementacion.md)
+#### [Implementación](Documentacion_proyecto/Implementacion.md)
