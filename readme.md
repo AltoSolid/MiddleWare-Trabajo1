@@ -12,7 +12,7 @@
 
 **Tabla de contenidos**
 
-[TOCM]
+[TOC]
 
 ### Objetivo del proyecto
 El objetivo de este proyecto 1 es diseñar e implementar un MIDDLEWARE que permita a un conjunto de CLIENTES enviar y recibir mensajes de datos. Esto permitirá a los alumnos evidenciar, conocer y aplicar, muchas de las características subyacentes a los sistemas distribuidos (ej: heterogeneidad, transparencia, seguridad, escalabilidad, entre otros) que deben implementar las aplicaciones o los subsistemas base (sistema operativo, middlewares, frameworks, apis, etc). En este caso, dicha complejidad y características del sistema distribuido serán diseñadas e implementadas en un MIDDLEWARE, de tal manera que para las aplicaciones usuarias (CLIENTES) sea transparente y seguro su uso.
@@ -21,7 +21,7 @@ El objetivo de este proyecto 1 es diseñar e implementar un MIDDLEWARE que permi
 Lenguaje de programación utilizado: 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> [Python 3](https://www.python.org/downloads/)
 Para revisar la versión que se tiene: 
-#####Revisar version de python en Windows : 
+##### Revisar version de python en Windows : 
 `python -v`
 ##### Revisar version de python en Linux o MacOS: 
 `python3 -v`
