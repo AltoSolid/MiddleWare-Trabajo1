@@ -12,7 +12,7 @@
 
 **Tabla de contenidos**
 
-[TOC]
+[TOCM]
 
 ### Objetivo del proyecto
 El objetivo de este proyecto 1 es diseñar e implementar un MIDDLEWARE que permita a un conjunto de CLIENTES enviar y recibir mensajes de datos. Esto permitirá a los alumnos evidenciar, conocer y aplicar, muchas de las características subyacentes a los sistemas distribuidos (ej: heterogeneidad, transparencia, seguridad, escalabilidad, entre otros) que deben implementar las aplicaciones o los subsistemas base (sistema operativo, middlewares, frameworks, apis, etc). En este caso, dicha complejidad y características del sistema distribuido serán diseñadas e implementadas en un MIDDLEWARE, de tal manera que para las aplicaciones usuarias (CLIENTES) sea transparente y seguro su uso.
